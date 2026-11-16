@@ -5,7 +5,7 @@
 **Actividad:** Post-contenido — Manejo del DEBUG  
 **Repositorio:** `valero-post1-u3`
 
-> \\\*\\\*Nota de integridad académica:\\\*\\\* este repositorio contiene el desarrollo técnico, las codificaciones calculadas, las tablas de traza y las instrucciones para reproducir el laboratorio. Las capturas reales de DOSBox deben incorporarse después de ejecutar los comandos en el equipo. No se incluyen imágenes simuladas ni se afirma que una ejecución local haya sido realizada.
+
 
 \---
 
